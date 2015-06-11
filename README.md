@@ -10,5 +10,5 @@ go get github.com/jaracil/clk
 
 Monotonic clock for Go.
 
-For now, it works only on Linux.
+Real monotonic clock only for Linux OS. System realtime clock is used in other OSes. 
 
